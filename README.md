@@ -1,5 +1,5 @@
 # experiment name
-Brief description of question this experiement is designed to answer.
+Use this template to generate evidence for opportunities, vechicles, and products.
 
 ## Report
 Describe where to find the most current report and give a brief synopsis of the results. For example
